@@ -4,6 +4,7 @@
 ![Mesa](https://img.shields.io/badge/Mesa-1.2.1-orange.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rifqidzaki/Project-Pemodelan-Simulasi-Data/blob/main/Simulasi_Jurusan_ABM.ipynb)
 
 Proyek ini adalah simulasi berbasis **Agent-Based Modeling (ABM)** yang mensimulasikan dinamika psikologis dan sosial calon mahasiswa dalam menentukan jurusan kuliah. Dibangun menggunakan framework **Mesa** di Python, model ini menganalisis bagaimana kebingungan (confusion) dapat berujung pada pemilihan jurusan yang salah, dan bagaimana intervensi seperti *Cognitive Behavioral Therapy (CBT)* dapat memitigasinya.
 
