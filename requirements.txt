@@ -1,0 +1,7 @@
+mesa==1.2.1
+matplotlib
+numpy
+pandas
+seaborn
+jupyter
+nbconvert

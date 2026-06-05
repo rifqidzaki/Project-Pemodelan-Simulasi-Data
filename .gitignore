@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environments
+venv/
+env/
+.env
+.venv
+
+# Output Files (Opsional: Jika tidak ingin meng-upload CSV ke git, namun di project ini kita sertakan saja)
+# *.csv

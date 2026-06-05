@@ -1,0 +1,5 @@
+skenario,label,stressor,information,cbt,prospect,avg_C_mean,avg_C_std,ci_95,pct_yakin_mean,pct_yakin_std,pct_salah_mean,pct_salah_std,avg_score_mean
+Skenario 1,Skenario 1: Tanpa Intervensi,0.8,0.2,0.0,0.5,1.0,0.0,0.0,0.0,0.0,72.66,8.29,0.6195
+Skenario 2,Skenario 2: Pengaruh Sosial Tinggi,0.6,0.2,0.2,0.5,0.9868,0.0,0.0,0.0,0.0,72.66,8.29,0.6195
+Skenario 3,Skenario 3: Akses Informasi Tinggi,0.2,0.9,0.8,0.7,0.0,0.0,0.0,38.28,8.81,61.72,8.81,0.6595
+Skenario 4,Skenario 4: Minat-Kemampuan Tidak Sesuai,0.5,0.5,0.5,0.2,0.9144,0.0232,0.00144,0.0,0.0,86.53,6.3,0.5595
