@@ -5,3 +5,7 @@ pandas
 seaborn
 jupyter
 nbconvert
+streamlit
+plotly
+xlsxwriter
+statsmodels
